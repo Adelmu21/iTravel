@@ -17,9 +17,6 @@
     "nodemon": "^2.0.22"
   },
   "description": "",
-  export const config = {
-	runtime: 'edge',
-}
 }
 
 
