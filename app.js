@@ -9,6 +9,9 @@ res.send('Hello World!')
 }) 
 
 
+  export const config = {
+	runtime: 'edge',
+};
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
