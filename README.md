@@ -1,11 +1,5 @@
 # iTravel
-
-http://www.adelmor.com/iTravel/public/index.html
-http://www.adelmor.com/iTravel/public/index.html
-
-
-# Future Value Calculator App
-> Website that features a an investment calculator app with validation added to give correct input to the entry boxes.
+> Website that features a demo of a traveling site, was coded to demostrate certain features more so than what structure shows, basically an HTML front, CSS rendering with JavaScript functionality.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,16 +9,15 @@ http://www.adelmor.com/iTravel/public/index.html
 * [Setup](#setup)
 
 ## General Information
-- Investment calculator app intended to calculate monthly investment contributed according to an annual interest rate over the course of 1 year up to a maximum.
-- Mock up how much would an estimate be of an investment over a period of time depending on interest.
+- Travel website made to diplay JavaScript functions for adding a booking to a cart
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Bootstrap 5
-- jQuery JS library 3.6
-- Microsoft .NET
-- C# 
+- Bootstrap 3
+- Babel
+- Node.js
+- JavaScript
 - HTML5
 - CSS
 
@@ -33,19 +26,28 @@ http://www.adelmor.com/iTravel/public/index.html
 Main Page <hr>
 ![Main Page screenshot](./img/MainPage.jpg)<br>
 
-Calculation Demo
-![Calculation Demo screenshot](./img/CalculationDemo.jpg)<br>
+Products Page
+![Products screenshot](./img/Products.jpg)<br>
 
-Validation Demo
-![Validation Demo screenshot](./img/ValidationDemo.jpg)<br>
+Items To Add
+![Items To Add screenshot](./img/ItemsToAdd.jpg)<br>
+
+Items Added
+![Items Added screenshot](./img/ItemsAdded.jpg)<br>
 
 ## Live Demo
 
-Click <a href="http://www.adelmor.com/iTravel/public/index.html">here<a> if you would like to try it out for yourself.
+Click <a href="http://www.adelmor.com/iTravel/public/index.html">here<a> if you would like to see the code in action.
 
 ## Setup
-after downloading all files in the repo (Visual Studio was used to build and run the Web App)
-- then start FutureValueApp.sln file
-- Run the program and you should be able to use the functions on the page
+after downloading all files in the repo (Visual Studio Code was used to build and run the Web App)
+- Open the folder in VS Code then show preview by right clicking on the index file included in the public folder
+- Or just click on the on the index icon in the public folder
+- and if you would like to see the JavaScript functions after downloading the files head to VS code and open the folder that contains all the files in this repo
+- delete package-lock.json file
+- open the integrated terminal and run the comman "npm run install --save nodemon"
+- after the successful run, run another command "npm run start"
+- if it were successful it will display a message and display the localhost followed by a number 
+- in a supported browser paste the link from terminal
 
 ## Thank you for reading
