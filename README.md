@@ -26,13 +26,13 @@
 Main Page <hr>
 ![Main Page screenshot](./img/MainPage.jpg)<br>
 
-Products Page
+Products Page <hr>
 ![Products screenshot](./img/Products.jpg)<br>
 
-Items To Add
+Items To Add <hr>
 ![Items To Add screenshot](./img/ItemsToAdd.jpg)<br>
 
-Items Added
+Items Added <hr>
 ![Items Added screenshot](./img/ItemsAdded.jpg)<br>
 
 ## Live Demo
