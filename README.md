@@ -9,7 +9,7 @@
 * [Setup](#setup)
 
 ## General Information
-- Travel website made to diplay JavaScript functions for adding a booking to a cart
+- Travel website made to diplay JavaScript functions for adding a booking to a cart, either by clicking on the shoppingcart option in the nav bar or by clicking on book now btn in the packages cards.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
